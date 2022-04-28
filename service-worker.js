@@ -9,20 +9,6 @@ const FILES_TO_CACHE = [
   // './service-worker.js',
 ];
 
-// self.addEventListener('activate', function (event) {
-//   event.waitUntil(
-//     caches.keys().then(function (cacheNames) {
-//       return Promise.all(
-//         cacheNames
-//           .filter(function (cacheName) {})
-//           .map(function (cacheName) {
-//             return caches.delete(cacheName);
-//           })
-//       );
-//     })
-//   );
-// });
-
 // Respond with cached resources
 self.addEventListener('fetch', function (e) {
   console.log('fetch request : ' + e.request.url);
