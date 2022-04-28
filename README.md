@@ -15,7 +15,7 @@ This budgeting application is designed for the on-the-move 'dirtbag' globetrotte
 - [Packages](#packages)
 - [Screenshot](#screenshots)
 - [Sources](#sources)
-- [Links](#links)
+- [Deployed App](#links)
 
 ## License
 
@@ -57,6 +57,6 @@ This app was developed using starter code provided by Trilogy Education Services
 
 <a name ='links'></a>
 
-## Links
+## Deployed App
 
 You can check the deployed app on Heroku here >> https://boiling-beyond-16175.herokuapp.com/
